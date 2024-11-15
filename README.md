@@ -6,7 +6,7 @@
 
 * [Current Session Laws](https://www.ncleg.gov/Laws/SessionLaws)
 * [2023-24 Session Laws](https://www.ncleg.gov/Laws/SessionLaws/2023)
-* [2024 Extra Session 2](https://www.ncleg.gov/Laws/SessionLaws/2015E2) Or the Hate Bill 2 session
+* [2015-16 Extra Session 2](https://www.ncleg.gov/Laws/SessionLaws/2015E2) Or the Hate Bill 2 session
   * [H2](https://www.ncleg.gov/BillLookup/2015E2/H2)
 * [Current NCGA House Members](https://www.ncleg.gov/Members/MemberList/H/District)
   * [Speaker](https://www.ncleg.gov/Members/Biography/H/339)
